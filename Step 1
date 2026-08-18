@@ -1,1 +1,3 @@
 I first follow the step, then created a list of AWS users, role, MFA, ect.
+
+fromt there, I was able to create testing procedures to determine whether AWS was securely configured
